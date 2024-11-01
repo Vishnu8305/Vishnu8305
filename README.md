@@ -17,8 +17,8 @@
 
 Hey there! I'm **Vishnu Vardhan**, also known as the **Embedded Developer**. Why the title? Well, during my time as a student, I've been fully immersed in the world of projects and practical learning. I've spent countless hours—day and night—solving problems, debugging code, and working hands-on with hardware to deepen my understanding of embedded systems. My journey has been filled with challenging yet rewarding experiences that have helped me master the intricacies of embedded development and problem-solving. 🧑‍💻
 
+I enjoy building things—especially in **IoT** through app and web development. Native development? Not my area yet, and though I mostly use **VS Code**, I’ve dabbled in **Neovim**. Still learning how to master Vim commands, but for now, VS Code is my go-to. Mouse? Nope, I'm all about the keyboard shortcuts! 🖱️❌
 
-I enjoy building things (especially in **Android development**) but, let's be real, native dev fried my brain 🧠, so I’m sticking to the **web world**. Oh, and **Neovim**? My best pal. Mouse? Never heard of her! 🖱️❌
 
 - **Started coding**: 3 years ago, still drowning in red lines and error messages 💻
 - **Current love**: Taming **Neovim** like a pro, even though I’m still not on **Linux** yet 😅
