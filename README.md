@@ -19,17 +19,17 @@ Hey there! I'm **Vishnu Vardhan**, also known as the **Embedded Developer**. Why
 
 I enjoy building things—especially in **IoT** through app and web development. Native development? Not my area yet, and though I mostly use **VS Code**, I’ve dabbled in **Neovim**. Still learning how to master Vim commands, but for now, VS Code is my go-to. Mouse? Nope, I'm all about the keyboard shortcuts! 🖱️❌
 
+- **Started Coding**: 3 years ago, and still on an epic journey through red error lines and fried circuit boards! 💻🔥
+- **Current Obsession**: Tackling **embedded systems** like a warrior, exploring every corner of this field 🛠️
+- **Dream Setup**: To conquer **embedded systems** across all domains and build expertise like a true pro 👨‍💻🌍
 
-- **Started coding**: 3 years ago, still drowning in red lines and error messages 💻
-- **Current love**: Taming **Neovim** like a pro, even though I’m still not on **Linux** yet 😅
-- **Dream setup**: One day, I’ll conquer **Hyprland configs** and the mighty **Arch Linux** 🐧
 
-When I’m not getting lost in **webtoons** or anime, I’m diving deep into code, but half the time, I’m fighting off red errors like a knight fending off dragons. 🛡️🔥
+When I’m not lost in **webtoons** or anime, you’ll find me deep in code or tinkering with hardware. Half the time, I’m battling red error messages and frying circuits like a knight facing down dragons. 🛡️🔥 But hey, that’s the thrill of building something from scratch!
 
 ### 🛠️ Tech Stack – Tools I Battle With
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,python,kotlin,java&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,arduino,cpp,python,kotlin,java&theme=dark" />
   </a>
 </p>
 
