@@ -36,7 +36,7 @@ When I’m not lost in **webtoons** or anime, you’ll find me deep in code or t
 ### ⚡ Frameworks & Tools in My Arsenal
 <p align="center">
   <a href="https://go-skill-icons.vercel.app">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,react,express,mongodb,mysql,git,github,androidstudio,neovim,flutter&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,react,express,mongodb,mysql,git,github,androidstudio,flutter&theme=dark" />
   </a>
 </p>
 
