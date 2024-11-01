@@ -8,7 +8,7 @@
 
 <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
-	<img src="https://count.getloli.com/@vishnu8305?name=vishnu8305&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"> <br/>
+	<img src="https://count.getloli.com/get/@Vishnu8305?theme=rule34"> <br/>
 </p>
 
 <h1 align="center">🙏 Kneel Before Your Developer 🙏</h1>
