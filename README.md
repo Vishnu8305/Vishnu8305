@@ -11,10 +11,12 @@
 	<img src="https://count.getloli.com/get/@Vishnu8305?theme=rule34"> <br/>
 </p>
 
-<h1 align="center">🙏 Kneel Before Your Emperor 🙏</h1>
+<h1 align="center">🙏 Kneel Before Your Developer 🙏</h1>
 
-### 👑 About Me – Emperor of Errors
-Hey, I'm **King Grey**, also known as **Emperor Grey**. Why the name? Well, I’m obsessed with light novels, manga, manhwa, anime—you name it! Ever read *The Beginning After the End*? That’s where I got **King Grey** from. But instead of ruling a kingdom, I’m out here battling errors and bugs on a daily basis. 🧑‍💻
+### 👑 About Me – Developer of Solutions (and Some Errors 😉)
+
+Hey there! I'm **Vishnu Vardhan**, also known as the **Embedded Developer**. Why the title? Well, during my time as a student, I've been fully immersed in the world of projects and practical learning. I've spent countless hours—day and night—solving problems, debugging code, and working hands-on with hardware to deepen my understanding of embedded systems. My journey has been filled with challenging yet rewarding experiences that have helped me master the intricacies of embedded development and problem-solving. 🧑‍💻
+
 
 I enjoy building things (especially in **Android development**) but, let's be real, native dev fried my brain 🧠, so I’m sticking to the **web world**. Oh, and **Neovim**? My best pal. Mouse? Never heard of her! 🖱️❌
 
