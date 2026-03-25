@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&height=180&section=header&text=Red%20Lines%20Everywhere...%20Send%20Help!&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Errors%20Are%20My%20Life...&descAlignY=70&descAlign=70"/>
 </p>
 
@@ -11,7 +11,7 @@
 	<img src="https://count.getloli.com/get/@Vishnu8305?theme=rule34"> <br/>
 </p>
 
-<h1 align="center">🙏 Kneel Before Your Developer 🙏</h1>
+<h1 align="center">🙏 Kneel Before Your Developer 🙏</h1> -->
 
 ### 👑 About Me – Developer of Solutions (and Some Errors 😉)
 
