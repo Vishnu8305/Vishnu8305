@@ -1,11 +1,9 @@
   <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4b4b&height=180&section=header&text=Red%20Lines%20Everywhere...%20Send%20Help!&fontSize=45&animation=fadeIn&fontColor=ffffff&fontAlignY=40&desc=Errors%20Are%20My%20Life...&descAlignY=70&descAlign=70"/>
 </p>  
-<!--
 <p align="center">
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
 </p>
--->
 <!-- <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
 	<img src="https://count.getloli.com/get/@Vishnu8305?theme=rule34"> <br/>
