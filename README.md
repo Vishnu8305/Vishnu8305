@@ -6,12 +6,12 @@
  <img src="https://raw.githubusercontent.com/IndusAryan/IndusAryan/main/line3.gif" alt="Divider" width="1050" height="4" />
 </p>
 -->
-<h3 align="center">👀 Total Profile Visits 👀</h3>
+<!-- <h3 align="center">👀 Total Profile Visits 👀</h3>
 <p align="center">
 	<img src="https://count.getloli.com/get/@Vishnu8305?theme=rule34"> <br/>
 </p>
 
-<h1 align="center">🙏 Kneel Before Your Developer 🙏</h1> 
+<h1 align="center">🙏 Kneel Before Your Developer 🙏</h1>  -->
 
 ### 👑 About Me – Developer of Solutions (and Some Errors 😉)
 
